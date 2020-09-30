@@ -1,4 +1,4 @@
-# Gabriel Wong | React webv1   
+# My personal web
 <!-- 
 ### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
 
