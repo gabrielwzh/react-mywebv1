@@ -64,13 +64,13 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h2 {
-   font: 45px/1.1em 'Sulphur Point', sans-serif;
+   font: 45px 'Sulphur Point', sans-serif;
    color: #FFF;
    letter-spacing: 0px;
    margin: 0 auto 18px auto;
 }
 header .banner-text .typing {
-   font: 30px/1.1em 'Sulphur Point', sans-serif;
+   font: 30px 'Sulphur Point', sans-serif;
    color: #fff;
    letter-spacing: -1px;
    margin: 0 auto 18px auto;
@@ -84,7 +84,7 @@ header .social {
 }
 
 header .social .fb{
-   margin: 1%;
+   margin: 0 10px;
    color: white;
  }
 
@@ -93,7 +93,7 @@ header .social .fb{
  }
 
 header .social .git{
-   margin: 1%;
+   margin: 0 10px;
    color: white;
  }
 
@@ -102,7 +102,7 @@ header .social .git{
  }
 
  header .social .twitter{
-   margin: 1%;
+   margin: 0 10px;
    color: white;
  }
 
@@ -111,7 +111,7 @@ header .social .git{
  }
 
  header .social .insta{
-   margin: 1%;
+   margin: 0 10px;
    color: white;
  }
 
@@ -120,7 +120,7 @@ header .social .git{
  }
 
  header .social .linkedin{
-   margin: 1%;
+   margin: 0 10px;
    color: white;
  }
  
@@ -1005,6 +1005,7 @@ footer .copyright li {
     margin: 0;
     padding: 0;
     line-height: 24px;
+    font-size: 16px;
 }
 .ie footer .copyright li {
    display: inline;
