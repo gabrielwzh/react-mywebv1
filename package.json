@@ -1,7 +1,7 @@
 {
   "name": "react-mywebv1",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "http://./",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
@@ -36,5 +36,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "<!--  ### DEMO is [here](https://master.dx3ekhseaa5jq.amplifyapp.com/)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielwzh/react-mywebv1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielwzh/react-mywebv1/issues"
   }
 }
